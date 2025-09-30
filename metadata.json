@@ -1,0 +1,5 @@
+{
+  "name": "DIGILOCALS - Smart Image Mixer",
+  "description": "An application that uses generative AI to merge two user-uploaded images based on a text prompt, creating a unique, new visual.",
+  "requestFramePermissions": []
+}
